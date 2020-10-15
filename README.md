@@ -1,6 +1,18 @@
-# Brain-Tumor-Detector
+# Brain-Tumor-Detector and classification
 Building a detection model using a convolutional neural network in Tensorflow & Keras.<br>
 Used a brain MRI images data founded on Kaggle. You can find it [here](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection).<br>
+and you can find here the classification model in my google drive account to classify between three types of tumor 
+<br>
+**Meningioma', 'Glioma', 'Pitutary'**
+<br>
+**Desktop app:**
+[](app1.png)
+[](app2.png)
+[](app3.png)
+[](app4.png)
+[](app5.png)
+[](app6.png)
+[](app7.png)
 
 **About the data:**<br>
 The dataset contains 2 folders: yes and no which contains 253 Brain MRI Images. The folder yes contains 155 Brain MRI Images that are tumorous and the folder no contains 98 Brain MRI Images that are non-tumorous.
@@ -106,8 +118,7 @@ best_model = load_model(filepath='models/cnn-parameters-improvement-23-0.91.mode
 ```
 
 4. The original data in the folders named 'yes' and 'no'. And, the augmented data in the folder named 'augmented data'.
-
-
+finaly this 
 Contributes are welcome!
 <br>Thank you!
 
