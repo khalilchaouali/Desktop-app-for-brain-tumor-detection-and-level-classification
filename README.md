@@ -6,13 +6,13 @@ and you can find here the classification model in my google drive account to cla
 **Meningioma', 'Glioma', 'Pitutary'**
 <br>
 **Desktop app:**
-[](https://github.com/khalilchaouali/Desktop-app-for-brain-tumor-detection-and-level-classification/blob/main/app1.png)
-[](https://github.com/khalilchaouali/Desktop-app-for-brain-tumor-detection-and-level-classification/blob/main/app2.png)
-[](https://github.com/khalilchaouali/Desktop-app-for-brain-tumor-detection-and-level-classification/blob/main/app3.png)
-[](https://github.com/khalilchaouali/Desktop-app-for-brain-tumor-detection-and-level-classification/blob/main/app4.png)
-[](https://github.com/khalilchaouali/Desktop-app-for-brain-tumor-detection-and-level-classification/blob/main/app5.png)
-[](https://github.com/khalilchaouali/Desktop-app-for-brain-tumor-detection-and-level-classification/blob/main/app6.png)
-[](https://github.com/khalilchaouali/Desktop-app-for-brain-tumor-detection-and-level-classification/blob/main/app7.png)
+![](https://github.com/khalilchaouali/Desktop-app-for-brain-tumor-detection-and-level-classification/blob/main/app1.png)
+![](https://github.com/khalilchaouali/Desktop-app-for-brain-tumor-detection-and-level-classification/blob/main/app2.png)
+![](https://github.com/khalilchaouali/Desktop-app-for-brain-tumor-detection-and-level-classification/blob/main/app3.png)
+![](https://github.com/khalilchaouali/Desktop-app-for-brain-tumor-detection-and-level-classification/blob/main/app4.png)
+![](https://github.com/khalilchaouali/Desktop-app-for-brain-tumor-detection-and-level-classification/blob/main/app5.png)
+![](https://github.com/khalilchaouali/Desktop-app-for-brain-tumor-detection-and-level-classification/blob/main/app6.png)
+![](https://github.com/khalilchaouali/Desktop-app-for-brain-tumor-detection-and-level-classification/blob/main/app7.png)
 
 **About the data:**<br>
 The dataset contains 2 folders: yes and no which contains 253 Brain MRI Images. The folder yes contains 155 Brain MRI Images that are tumorous and the folder no contains 98 Brain MRI Images that are non-tumorous.
